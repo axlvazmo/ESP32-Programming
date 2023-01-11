@@ -91,5 +91,3 @@ void app_main(void){
         transsition(led, size);
     }
 }
-
-idf.py -p COM5 flash

@@ -1,22 +1,6 @@
 /*
-    Author:     Jesus Minjares
-                Master of Science in Computer Engineering   
-
-    Course:     EE 4178/5190 Laboratory for Microprocessors Systems II    
-     
-    Lab 2:
-        Objective:
-                Understand how to use the Espressif GPIO interrupts. This lab will consist
-                of simulating your own fire alarm! There is an additional driver that was developed 
-                to facilitate the use of LEDs. Student must use 2 external interrupts either pull-up or pull-down
-                configuration.
-
-        Bonus:
-            Undergrad Bonus:
-                Display fire alarm status in terminal whenever it is active
-            Grad Bonus:
-                Add another LED to indicate when fire alarm is disable
-                
+    Author:     Axel Vazquez Montano
+                Master of Science in Electrical and Computer Engineering
  */
 
 #include <stdio.h>
