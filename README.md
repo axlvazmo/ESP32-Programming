@@ -1,2 +1,2 @@
 # ESP32-Programming
-Codes I used to learn how to use the ESP32 and FreeRTOS
+These are the codes I wrote to learn how to use the ESP32 and FreeRTOS.
